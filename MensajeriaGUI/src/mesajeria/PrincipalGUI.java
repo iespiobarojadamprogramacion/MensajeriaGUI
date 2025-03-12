@@ -6,7 +6,7 @@ public class PrincipalGUI {
 
 	/**
 	 * 
-	 * @param args 1 - Nuevo usuario prueba con token con token!!!
+	 * @param args 1 - Ahora si con token!!!
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
