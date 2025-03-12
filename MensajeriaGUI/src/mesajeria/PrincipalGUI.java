@@ -6,7 +6,7 @@ public class PrincipalGUI {
 
 	/**
 	 * 
-	 * @param args 1 - Nuevo usuario
+	 * @param args 1 - Nuevo usuario prueba
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
