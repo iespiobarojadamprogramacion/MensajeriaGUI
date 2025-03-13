@@ -7,6 +7,7 @@ public class PrincipalGUI {
 	/**
 	 * 
 	 * @param args 1 - Ahora si con token!!!
+	 * Con otro token
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
